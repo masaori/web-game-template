@@ -1,0 +1,19 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "eslint.format.enable": false,
+  "editor.formatOnSave": true,
+  "editor.lineNumbers": "on",
+  "editor.rulers": [160],
+  "editor.wordWrap": "on",
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "npm.packageManager": "npm",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+  "javascript.validate.enable": false,
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
